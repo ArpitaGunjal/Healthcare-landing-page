@@ -14,8 +14,8 @@ const Footer = () => {
             Cupiditate rerum quidem fugiat sapiente! Iusto quae perspiciatis,
           </p>
 
-          <p className="footer-contact">📞 1800 222 666</p>
-          <p className="footer-contact">✉️ info@hospione.com</p>
+          <p className="footer-contact">1800 222 666</p>
+          <p className="footer-contact">info@hospione.com</p>
         </div>
 
  
